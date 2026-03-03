@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+runs/
+.ipynb_checkpoints/
+kaggle.json
+.cursor/
+.claude/
+benchmark_inference*.ipynb

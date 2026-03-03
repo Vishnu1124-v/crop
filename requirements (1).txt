@@ -1,6 +1,0 @@
-gradio
-opencv-python-headless
-scikit-learn
-scikit-image
-numpy
-joblib
